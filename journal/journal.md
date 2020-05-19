@@ -29,7 +29,7 @@ the second trap is a more complex example of a tripwire trap. It involves a bamb
 ### door alarm ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](dooralarm.png)
+![Image](dooralarm.PNG)
 
 <!--- Fill out name and link to related project in the code below. --->
 Door alarm(https://www.microbit.org/news/2020-05-18/microbit-at-home-door-alarm/)
@@ -39,7 +39,7 @@ this project is a similar type of device to the tripwire that I'll be making. It
 ### Timing gates ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](sensor2.jpeg)
+![Image](sensor2.jpg)
 
 <!--- Fill out name and link to related project in the code below. --->
 Timing gates(https://makecode.microbit.org/projects/timing-gates)
