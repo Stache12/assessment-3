@@ -72,18 +72,34 @@ I did not use too many outside tutorials outside of the instruction manual that 
 ## Conceptual development ##
 
 ### Design intent ###
-<!--- Include your design intent here. It should be about a 10 word phrase/sentence. --->
+To make a tripwire activated device for a prank or practical joke.
 
 ### Design ideation ###
-<!--- Document your ideation process. This will include the design concepts presented for assessment 2. You can copy and paste that information here. --->
+Ideas for tripwire:
+1.	A tripwire that sprays water to keep pets away
+2.	A tripwire that triggers an alarm with flashing lights
+3.	A tripwire that screams when activated
+4.	A tripwire that launches a soft projectile
+The second option seems to be the most plausible option that fits the intent and would be possible given the resources.
+Ideas for activation method:
+1.	Standard wire
+2.	Light sensor/laser pointer
+3.	Motion camera
+The light sensor would be difficult as the tools available are to imprecise to make it work. I do not have access to a motion sensing device so the last option is also not possible. This leaves the first solution as the only plausible option.
+While a simple wire activating an alarm may seem basic and easy, the complexity will come mostly from how the wire activates the device. There are multiple ways even a wire activated mechanism can be executed. For example:
+1.	Wire tilts microbit
+2.	Wire disconnects a circuit
+3.	Wire pulls a switch
+4.	Wire pulls something onto a button
+I figured the easiest and most interesting method would be the second method. The idea is to have one end of the wire pinned to a weight and the other end of the wire strung over a hook and tied to a piece of metal. The metal will connect two parts of a circuit and once the piece of metal is lifted the microbit will stop receiving a current and this will trigger the alarms.
+
 
 ### Final design concept ###
-<!--- This should be a description of your concept including its context, motivation, or other relevant information you used to decide on this concept. --->
+The final idea I came up with was to have a simple tripwire that activates and alarm with a red flashing light. the wire will be tied around a brick, suspended across the doorway and thread through a hook, drilled into the second brick. the wire is then hooked around another hook drilled into the wall above. on the other end of the wire will be a piece of metal. the microbit will be set up and two wires, that are part of a basic circuit, will be stuck into two peices of tin foil, wrapped around oppisite ends of a piece of cardboard. the piece of metal on the wire will be placed onto the piece of cardboard, so that it closes the circuit and a weight will be placed on top of the metal to keep the wire taut. The settup of the tripwire is more important than what the tripwire activates. The tripwires novelty comes from the unique way it is set up. The way it's set up is also important to the effectiveness of the practicle joke. the way it's set up is fairly complex, so only the person who set it up would be able to easily know how to set it up, and since it is triggered by not detecting a current, the only way to deactivate it is too set it up or cut the power completely.
 
 ### Interaction flowchart ###
-<!--- Include an interaction flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible. --->
 
-![Image](missingimage.png)
+![Image](flowchart.png)
 
 ## Process documentation ##
 <!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
