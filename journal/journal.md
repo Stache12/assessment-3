@@ -39,7 +39,7 @@ this project is a similar type of device to the tripwire that I'll be making. It
 ### Timing gates ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](tripwiregrenade.jpeg)
+![Image](sensor2.jpeg)
 
 <!--- Fill out name and link to related project in the code below. --->
 Timing gates(https://makecode.microbit.org/projects/timing-gates)
