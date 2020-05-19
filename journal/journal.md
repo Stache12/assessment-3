@@ -26,7 +26,15 @@ tripwires are a fairly common trap, as such there are many examples of different
 
 the second trap is a more complex example of a tripwire trap. It involves a bamboo pole with a mace or spikes attatched to the end, that, when the wire is tripped, the pole will be released, sending the mace swinging into the victim.
 
-<!--- Repeat code above for a total of 6 related projects --->
+### door alarm ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](dooralarm.png)
+
+<!--- Fill out name and link to related project in the code below. --->
+Door alarm(https://www.microbit.org/news/2020-05-18/microbit-at-home-door-alarm/)
+
+this project is a similar type of device to the tripwire that I'll be making. It's a home made door alarm that instead uses a magnet to detect when the microbit is away from the door.
 
 ### Timing gates ###
 
@@ -34,50 +42,32 @@ the second trap is a more complex example of a tripwire trap. It involves a bamb
 ![Image](tripwiregrenade.jpeg)
 
 <!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
+Timing gates(https://makecode.microbit.org/projects/timing-gates)
 
-<!--- Include information about why this project is related to yours. --->
+This project is also one that I have made for a previous assighnment as well. The construnction involves using tin foil to close a connection, then registering that in the microbit. The microbit then uses this info to find the speed of an object passing through the two points. This tripwire is similar in a couple of ways. Firstly this project also involves triggering something to happen after something goes past as well as having the trigger invole a piece of metal connecting two bits of tin foil.
 
-<!--- Repeat code above for a total of 6 related projects --->
-
-### Grenade-in-a-can ###
+### micro guardian ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](tripwiregrenade.jpeg)
+![Image](microguardian.jpg)
 
 <!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
+Micro guardian(https://make.techwillsaveus.com/microbit/activities/micro-guardian-advanced)
 
-<!--- Include information about why this project is related to yours. --->
+this is another similar project that involves a microbit that detects when a signal is no longer being recieved and triggers an alarm, just like this tripwire project. this example uses two bits of copper attatched to a jar and its lid.
 
-<!--- Repeat code above for a total of 6 related projects --->
-
-### Grenade-in-a-can ###
+### using a buzzer ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](tripwiregrenade.jpeg)
+![Image](piezo.jpg)
 
 <!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
+Piezo tutorial(https://learn.sparkfun.com/tutorials/sparkfun-inventors-kit-for-microbit-experiment-guide/experiment-9-using-a-buzzer)
 
-<!--- Include information about why this project is related to yours. --->
-
-<!--- Repeat code above for a total of 6 related projects --->
-
-### Grenade-in-a-can ###
-
-<!--- Modify code to insert image of related project below --->
-![Image](tripwiregrenade.jpeg)
-
-<!--- Fill out name and link to related project in the code below. --->
-[Name of related project](https://[URL of related project])
-
-<!--- Include information about why this project is related to yours. --->
-
-<!--- Repeat code above for a total of 6 related projects --->
+this is a basic project that shows the basics of using a piezo buzzer.
 
 ## Other research ##
-<!--- Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it. You should include a reference or link to each of these resources. --->
+I did not use too many outside tutorials outside of the instruction manual that came with th inventors kit. The manual was used to find out how to attatch the buzzer and light to the breadboard. Otherwise, help was recieved from other people, including friends and family, instructors and peers.
 
 ## Conceptual development ##
 
