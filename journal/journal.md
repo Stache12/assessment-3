@@ -13,6 +13,63 @@
 ![Image](tripwiregrenade.jpeg)
 
 <!--- Fill out name and link to related project in the code below. --->
+two following projects(https://www.wearethemighty.com/articles/8-of-the-most-terrifying-vietnam-war-booby-traps)
+
+tripwires are a fairly common trap, as such there are many examples of different tripwires. The first two examples are of real life tripwire traps used during the Vietnam war. This example is a common and simple tripwire trap that uses a cord tied to the pin of a grenade within a can. once the wire is tripped the pin is pulled out and the grenade explodes.
+
+<!--- Repeat code above for a total of 6 related projects --->
+
+### Bamboo Whip ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](tripwiremace.jpeg)
+
+the second trap is a more complex example of a tripwire trap. It involves a bamboo pole with a mace or spikes attatched to the end, that, when the wire is tripped, the pole will be released, sending the mace swinging into the victim.
+
+<!--- Repeat code above for a total of 6 related projects --->
+
+### Timing gates ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](tripwiregrenade.jpeg)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Name of related project](https://[URL of related project])
+
+<!--- Include information about why this project is related to yours. --->
+
+<!--- Repeat code above for a total of 6 related projects --->
+
+### Grenade-in-a-can ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](tripwiregrenade.jpeg)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Name of related project](https://[URL of related project])
+
+<!--- Include information about why this project is related to yours. --->
+
+<!--- Repeat code above for a total of 6 related projects --->
+
+### Grenade-in-a-can ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](tripwiregrenade.jpeg)
+
+<!--- Fill out name and link to related project in the code below. --->
+[Name of related project](https://[URL of related project])
+
+<!--- Include information about why this project is related to yours. --->
+
+<!--- Repeat code above for a total of 6 related projects --->
+
+### Grenade-in-a-can ###
+
+<!--- Modify code to insert image of related project below --->
+![Image](tripwiregrenade.jpeg)
+
+<!--- Fill out name and link to related project in the code below. --->
 [Name of related project](https://[URL of related project])
 
 <!--- Include information about why this project is related to yours. --->
