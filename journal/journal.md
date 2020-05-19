@@ -102,20 +102,39 @@ The final idea I came up with was to have a simple tripwire that activates and a
 ![Image](flowchart.png)
 
 ## Process documentation ##
-<!--- In this section, include text and images (and potentially links to video) that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.
 
-This should have quite a lot of information! It will likely include most of the process documentation from assessment 2 which can be copied and pasted here.
+Alot of the documentation is part of the ideation process above
 
-Use subheadings to structure this information. See https://guides.github.com/features/mastering-markdown/ for details of how to insert subheadings.
+As the process of making the tripwire function was quite difficult and require specific equiptment and tools that required a precise time and place to access, I did not risk making many early concepts untill i was absolutely sure of the desighn.
 
-There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. --->
+the project went through a number of changes and updates before deciding on the final design and after the ideation. the ideas are displayed in the sketch bellow. some of the ideas included having the piece of metal pulled out of a clip and having a weight blocking a gate that would close the curcuit.
+![Image](tripwireconcept.jpg)
+![Image](codetripwire.PNG)
+https://youtu.be/8w8tV6yB2MA
 
 ## Final code ##
 
-<!--- Include here screenshots of the final code you used in the project if it is done with block coding. If you have used javascript, micropython, C, or other code, include it as text formatted as code using a series of three backticks ` before and after the code block. See https://guides.github.com/features/mastering-markdown/ for more information about that formatting. --->
+basic.forever(function () {
+    if (pins.digitalReadPin(DigitalPin.P1) < 1) {
+        pins.digitalWritePin(DigitalPin.P0, 1)
+        basic.pause(500)
+        pins.digitalWritePin(DigitalPin.P0, 0)
+        basic.pause(500)
+    }
+})
+basic.forever(function () {
+    if (pins.digitalReadPin(DigitalPin.P1) < 1) {
+        pins.digitalWritePin(DigitalPin.P2, 1)
+        basic.pause(500)
+        pins.digitalWritePin(DigitalPin.P2, 0)
+        basic.pause(500)
+    }
+})
+basic.forever(function () {
+    pins.digitalWritePin(DigitalPin.P3, 1)
+})
 
 ## Design process discussion ##
-<!--- Discuss your process used in this project, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process. --->
 
 
 ## Reflection ##
