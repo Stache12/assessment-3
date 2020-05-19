@@ -10,7 +10,7 @@
 ### Grenade-in-a-can ###
 
 <!--- Modify code to insert image of related project below --->
-![Image](tripwire grenade.webp)
+![Image](tripwiregrenade.jpeg)
 
 <!--- Fill out name and link to related project in the code below. --->
 [Name of related project](https://[URL of related project])
