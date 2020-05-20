@@ -8,7 +8,7 @@ This project is a simple tripwire that, when tripped, sounds an alarm with flash
 
 ![Image](tripwire6.PNG)
 
-[![Image](tripwirethumbnail.PNG)](https://your video address)
+[![Image](tripwirethumbnail.PNG)](https://www.youtube.com/watch?v=8w8tV6yB2MA)
 
 ### Journal ###
 
