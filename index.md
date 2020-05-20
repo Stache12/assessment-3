@@ -4,16 +4,12 @@
 
 ![Image](tripwireconcept.jpg)
 
-<!--- PROJECT DESCRIPTION: In a few sentences, describe what the project is and does, who it is for, and a typical use case. This should be suitable for a catalog, poster, or other display material about the project. --->
+This project is a simple tripwire that, when tripped, sounds an alarm with flashing lights. The tripwires novelty comes from the unique way it is set up. The wire is tied around a brick, suspended across the doorway and thread through a hook, drilled into a second brick. The wire is then hooked around another hook drilled into the wall above. On the other end of the wire is a piece of metal. the microbit will be set up and two wires, that are part of a basic circuit, will be stuck into two peices of tin foil, wrapped around oppisite ends of a piece of cardboard. the piece of metal on the wire is placed onto the piece of cardboard, so that it closes the circuit and a weight will be placed on top of the metal to keep the wire taut. The way it's set up is also important to the effectiveness of the practicle joke. the way it's set up is fairly complex, so only the person who set it up would be able to easily know how to set it up, and since it is triggered by not detecting a current, the only way to deactivate it is too set it up or cut the power completely. This leaves whoever trips the wire stuck with an annoying noise for as long as it takes for them to figure out how to stop it or untill the person who set the trap finds out.
 
-<!--- SECONDARY IMAGE: Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else. This should not just be a different angle of the same object. It should show the project in use if the first image didn't show that, or somehow tell us a different story about the project. --->
+![Image](tripwire6.PNG)
 
-
-<!--- PROJECT VIDEO: Provide a still image from your video and a link to the video below. In that code, replace `missingimage.png` with the still from your video and the URL of the video where indicated. If you link to a password protected video, you must include the password in the document you submit through Learning@Griffith. Failing to have a video that we can access might lead to significant reduction in marks, potentially as much as if the video has not been submitted at all. --->
-
-[![Image](missingimage.png)](https://your video address)
+[![Image](tripwirethumbnail.PNG)](https://your video address)
 
 ### Journal ###
 
-<!--- The following link will direct to your process and reflection journal, which will be held in the file `journal.md` in the folder called `journal`. This link should not be changed. --->
 [Process and reflection journal](/journal/journal.md)
